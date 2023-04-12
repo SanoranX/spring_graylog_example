@@ -3,6 +3,8 @@
   <img width="200" height="200" src="images/spring.png">
 </p>
 
+![example workflow](https://github.com/SanoranX/spring_graylog_example/actions/workflows/maven.yml/badge.svg)
+
 # Graylog + Spring Boot Example
 
 This repository demonstrates a sample implementation of Spring Centralized Logging to Graylog. In this example, Graylog is run using Docker Compose. However, in production, it can be installed as a standalone application.
