@@ -9,14 +9,15 @@ This repository demonstrates a sample implementation of Spring Centralized Loggi
 
 ### How-To Run
 
-1. Run
+1. Start docker-compose by running following in your terminal
 
 ```bash
 docker-compose up -d
 ```
 
-2. Open in browser: http://localhost:9000 and add new GELF input
-3. Run application and see logs in Graylog
+2. Open your browser and go to http://localhost:9000.
+3. After that, add a new GELF input.
+4. Finally, run the application and you will be able to see the logs in Graylog
 
 ### How it works
 
